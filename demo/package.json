@@ -9,8 +9,8 @@
   "dependencies": {
     "@matejmazur/react-katex": "latest",
     "katex": "0.12.0",
-    "react": "16.14.0",
-    "react-dom": "16.14.0"
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
     "@matejbransky/eslint-config": "1.0.0-alpha.2",
