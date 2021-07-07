@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@matejmazur/react-katex": "latest",
-    "katex": "0.12.0",
+    "katex": "0.13.11",
     "react": "16.14.0",
     "react-dom": "16.14.0"
   },
@@ -16,7 +16,7 @@
     "@matejbransky/eslint-config": "1.0.0-alpha.2",
     "@matejbransky/prettier-config": "1.0.0-alpha.2",
     "@matejbransky/typescript-config": "1.0.0-alpha.1",
-    "@types/katex": "0.11.0",
+    "@types/katex": "0.11.1",
     "@types/react": "16.14.5",
     "@types/react-dom": "16.9.11",
     "eslint": "6.8.0",
